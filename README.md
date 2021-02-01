@@ -27,7 +27,7 @@ WELCOME TO MY GITHUB  🙌 👯**
   
 
 <p align="center">
-    <img src="img/separador.gif" width="900" height="200">
+    <img src="img/separador.gif" width="900" height="100">
 </p>
 
 
