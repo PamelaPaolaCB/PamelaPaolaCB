@@ -11,9 +11,7 @@ WELCOME TO MY GITHUB  🙌 👯**
   
 
 <section>
-    <audio controls>
-        <source src="img/music.mp3"></source>
-    </audio>
+    <embed src="img/music.mp3" autostart= "True" loop="False" width="650" height="400">
 </section>
   
   
