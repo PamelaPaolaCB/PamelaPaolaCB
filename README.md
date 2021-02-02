@@ -5,7 +5,10 @@
 with some Natural language processing knowledge, I love art, poetry, warm conversations accompanied by coffee and swimming. 
 WELCOME TO MY GITHUB  🙌 👯**
 
-
+<p align="center">
+    <img src="img/music.mp3" width="650" height="400">
+</p>
+  
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/60514118/106513195-9eff2b80-64a0-11eb-8562-7d1cc7f9541e.gif" width="650" height="400">
