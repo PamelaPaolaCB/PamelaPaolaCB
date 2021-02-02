@@ -6,13 +6,15 @@ with some Natural language processing knowledge, I love art, poetry, warm conver
 WELCOME TO MY GITHUB  🙌 👯**
 
 <p align="center">
-    <img src="img/music.mp3" width="650" height="400">
+    <img src="img/gatita_codeando.gif" width="650" height="400">
 </p>
   
 
-<p align="center">
-    <audio src="img/music.mp3" width="200" height="50" controls=""></audio>
-</p>
+<section>
+    <audio controls>
+        <source src="img/music.mp3"></source>
+    </audio>
+</section>
   
   
 * 🧠 I am currently studying at Laboratoria, at the Front End bootcamp 🤩. I do projects in `HTML`,` CSS` and `Javascript` 
