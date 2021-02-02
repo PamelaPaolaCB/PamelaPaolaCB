@@ -11,7 +11,7 @@ WELCOME TO MY GITHUB  🙌 👯**
   
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/60514118/106513195-9eff2b80-64a0-11eb-8562-7d1cc7f9541e.gif" width="650" height="400">
+    <audio src="img/music.mp3" width="200" height="50" controls=""></audio>
 </p>
   
   
