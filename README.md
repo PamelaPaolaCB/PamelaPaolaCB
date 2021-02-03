@@ -15,7 +15,7 @@ WELCOME TO MY GITHUB  🙌 👯**
 </section>
   
   
-* 🧠 I am currently studying at Laboratoria, at the Front End bootcamp 🤩. I do projects in `HTML`,` CSS` and `Javascript` 
+* 🧠 I am currently studying at Laboratoria, at the Front End bootcamp 🤩. I do projects in `HTML`,` CSS`, `Javascript` 
 and I learn about agile culture.
   
 * 👩‍💻 I learn from Machine learning, NLP, web development, to be a good Front End developer apprentice.
