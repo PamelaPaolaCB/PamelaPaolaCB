@@ -14,9 +14,8 @@ WELCOME TO MY GITHUB  🙌 👯**
     <embed src="img/music.mp3" autostart= "True" loop="False" width="650" height="400">
 </section>
   
-  
-* 🧠 I am currently studying at Laboratoria, at the Front End bootcamp 🤩. I do projects in `HTML`,` CSS`, `Javascript` 
-and I learn about agile culture.
+
+* 🧠 Currently I am a Data Scientist apprentice, I do projects with `Python`,` R`. I also have some projects cen `HTML`,` CSS` and `Javascript`.
   
 * 👩‍💻 I learn from Machine learning, NLP, web development, to be a good Front End developer apprentice.
   
