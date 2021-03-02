@@ -15,7 +15,7 @@ WELCOME TO MY GITHUB  🙌 👯**
 </section>
   
 
-* 🧠 Currently I am a Data Scientist apprentice, I do projects with `Python`,` R`. I also have some projects cen `HTML`,` CSS` and `Javascript`.
+* 🧠 Currently I am a Data Scientist trainee, I do projects with `Python`,` R`. I also have some projects in `HTML`,` CSS` and `Javascript`.
   
 * 👩‍💻 I learn from Machine learning, NLP, web development, to be a good Front End developer apprentice.
   
